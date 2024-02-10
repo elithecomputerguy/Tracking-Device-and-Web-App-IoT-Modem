@@ -40,6 +40,8 @@ Setup modem based on blues-config.txt file
 
 Upload code to Arduino using PlatformIO VScode extension
 
+Use main.cpp and platformio.ini files
+
 ### Webserver Setup
 
 Install Bottle
