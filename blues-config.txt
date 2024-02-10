@@ -1,0 +1,13 @@
+Blues Programming
+
+Setup Notecard
+{"req":"hub.set", "product":"com.your-company.your-name:your_product"}
+
+Force Sync
+{"req":"hub.sync"}
+
+Set GPS to Periodic
+{"req": "card.location.mode", “mode": "periodic", "seconds": 300}
+
+Status of Card
+{"req":"card.status"}
