@@ -5,6 +5,10 @@ This project creates a portable tracking device that sends its location to your 
 
 We use Blues Cell+Wifi modem that comes in their dev kit - https://shop.blues.com/products/blues-global-starter-kit
 
+## YouTube Video
+
+https://youtu.be/CN1ue8C2lQI
+
 ## Requirements
 
 Blues Global Starter Kit - [https://notehub.io](https://shop.blues.com/products/blues-global-starter-kit)
