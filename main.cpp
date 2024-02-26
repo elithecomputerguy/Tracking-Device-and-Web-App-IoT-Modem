@@ -19,7 +19,6 @@ void setup()
   J *req = notecard.newRequest("hub.set");
   JAddStringToObject(req, "product", productUID);
   JAddStringToObject(req, "mode", "continuous");
-  JAddStringToObject(req, "mode", "continuous");
 
   notecard.sendRequest(req);
 }
